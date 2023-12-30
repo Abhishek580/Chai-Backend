@@ -1,0 +1,65 @@
+Worked on an IoT Supply Chain-based project for a pharmaceutical client. During this project, I had the opportunity to develop APIs for various web applications, contributing to a comprehensive platform designed for image processing and storage. Specifically, I built APIs that facilitated bulk image uploads for storage purposes, served as a robust file manager, and functioned as an archival solution.
+
+Moreover, I created numerous APIs to handle CRUD operations for different routes and implemented a generic search API specifically designed for the main search bar functionality within the web application.
+
+Participated in the development of APIs for a web portal dedicated to managing images and their metadata uploaded from a production line. Additionally, designed APIs to facilitate the upload of videos along with their corresponding metadata.
+
+Implemented a functionality that generates thumbnails for images, reducing load times when users are initially viewing a card displaying the image. The actual image is loaded only when the user clicks on the card, enhancing overall performance.
+
+Moreover, contributed to a web-based product inspection solution, enhancing the efficiency of product inspections through image capture on a mobile app.
+
+Implemented continuous integration and continuous deployment (CI/CD) using Jenkins, and refactored the code to successfully pass all the SonarLint tests conducted on the code.
+I have also developed unit test cases for all the APIs using sinon, supertest, and jest frameworks. Additionally, I have created Swagger documentation for each of the APIs.
+
+Furthermore, I have pushed all the code to Bitbucket, ensuring each commit is accompanied by clear and descriptive commit messages.
+
+
+
+
+
+
+Worked on an IoT Supply Chain-based project for a pharmaceutical client.
+Developed APIs for various web applications, contributing to a comprehensive platform designed for image processing and storage. Built APIs that facilitated bulk image uploads for storage purposes, served as a robust file manager, and functioned as an archival solution.
+Created numerous APIs to handle CRUD operations for different routes and implemented a generic search API specifically designed for the main search bar functionality within the web application.
+Participated in the development of APIs for a web portal dedicated to managing images and their metadata uploaded from a production line. Additionally, designed APIs to facilitate the upload of videos along with their corresponding metadata.
+Implemented a functionality that generates thumbnails for images, reducing load times when users are initially viewing a card displaying the image. The actual image is loaded only when the user clicks on the card, enhancing overall performance.
+Contributed to a web-based product inspection solution, enhancing the efficiency of product inspections through image capture on a mobile app.
+Implemented continuous integration and continuous deployment (CI/CD) using Jenkins, and refactored the code to successfully pass all the SonarLint tests conducted on the code.
+Developed unit test cases for all the APIs using sinon, supertest, and jest frameworks.
+Created Swagger documentation for each of the APIs.
+
+
+
+
+Dedicated and results-driven professional with 2.9 years of experience in software development and API design. Proven expertise in contributing to a transformative IoT Supply Chain-based project for a pharmaceutical client. Skilled in developing APIs for diverse web applications, focusing on image processing and storage solutions. Adept at building APIs for bulk image uploads, serving as a robust file manager and archival solution. Proficient in handling CRUD operations and implementing search functionalities to optimize web application performance.
+
+Demonstrated contribution to the development of APIs for a web portal managing images and metadata, as well as designing APIs for video uploads. Implemented innovative features, including thumbnail generation, to enhance user experience and reduce load times. Played a key role in a mobile app-based product inspection solution, improving the efficiency of inspections through image capture.
+
+Proven ability to ensure code quality through continuous integration and deployment using Jenkins. Successfully refactored code to meet SonarLint tests, showcasing strong problem-solving skills. Developed comprehensive unit test cases using sinon, supertest, and jest frameworks. Created detailed Swagger documentation for each API, emphasizing clear communication and documentation practices.
+
+Motivated and quick to adapt, I am committed to leveraging my skills to contribute effectively to dynamic and challenging projects, while continuously expanding my knowledge in evolving technologies.
+
+Dedicated and results-driven professional with substantial experience in software development and API design, demonstrating proven expertise in contributing to transformative IoT Supply Chain-based projects. Motivated and quick to adapt, I am committed to leveraging my skills to contribute effectively to dynamic and challenging projects, while continuously expanding my knowledge in evolving technologies.
+
+
+SQL
+Git
+CSS
+HTML
+Java
+Node.js
+SonarQube
+Express js
+JavaScript
+Microservices
+Unit test cases
+Microsoft Azure
+Jenkins CI/CD
+API Development
+Swagger Documentation
+
+Team Player
+Agile framework
+Problem-Solving
+Critical Thinking
+Positive Attitude
